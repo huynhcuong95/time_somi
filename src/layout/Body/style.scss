@@ -1,0 +1,13 @@
+.body {
+  width: 100%;
+  background-color: white;
+  height: calc(100% - 100px);
+  padding: 10px;
+  overflow: hidden;
+  h1 {
+    text-align: center;
+  }
+  .main-content {
+    display: flex;
+  }
+}
